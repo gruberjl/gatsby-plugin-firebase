@@ -8,10 +8,9 @@
   "author": "Alex Luong <alex@alexluong.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexluong/gatsby-packages.git",
-    "directory": "packages/gatsby-plugin-firebase"
+    "url": "https://github.com/gruberjl/gatsby-plugin-firebase.git"
   },
-  "homepage": "https://github.com/alexluong/gatsby-packages/tree/master/packages/gatsby-plugin-firebase#readme",
+  "homepage": "https://github.com/gruberjl/gatsby-plugin-firebase/blob/master/README.md",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
